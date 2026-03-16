@@ -1,7 +1,7 @@
 # projeto-integrador-grupo-16
 Repositório para criação do projeto integrador de desenvolvimento low code em ciência de dados do curso de ADS - Senac
 
-##Integrantes
+## Integrantes
 - Aline Oliveira da Costa e Silva
 - Felippe Gomes Albino
 - Kelly Domingos Fernandes
