@@ -7,6 +7,14 @@ Repositório para criação do projeto integrador de desenvolvimento low code em
 - Silpharny Marques Miranda
 - Yuri de Abreu Facchinello
 
+## Definição da base de dados
+
+Base de Dados: Personal Finance Dataset (Kaggle). Link: https://www.kaggle.com/datasets/entrepreneurlife/personal-finance
+
+- Contexto: Os dados consistem em registros de transações financeiras (receitas e despesas), categorizados por tipo (alimentação, lazer, moradia, salário, etc.) com datas e valores específicos.
+
+- Objetivo da Análise: Transformar dados brutos de extratos em informações visuais que permitam ao usuário identificar para onde seu dinheiro está indo, qual sua taxa de economia mensal e quais categorias possuem maior impacto no orçamento.
+
 ## Objetivo
 
 O objetivo central é fornecer ao usuário uma ferramenta de Low Code que transforme dados brutos de transações (extratos) em inteligência financeira. A análise visa:
