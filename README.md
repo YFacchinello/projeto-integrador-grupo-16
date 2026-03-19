@@ -3,7 +3,6 @@ Repositório para criação do projeto integrador de desenvolvimento low code em
 
 ## Integrantes
 - Aline Oliveira da Costa e Silva
-- Felippe Gomes Albino
 - Kelly Domingos Fernandes
 - Silpharny Marques Miranda
 - Yuri de Abreu Facchinello
