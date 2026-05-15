@@ -25,6 +25,12 @@ O objetivo central é fornecer ao usuário uma ferramenta de Low Code que transf
 
 - Facilitar a tomada de decisão sobre economia e novos investimentos através de indicadores visuais claros.
 
+## Tecnologias Utilizadas
+
+- Python
+- Streamlit
+- GitHub
+
 ## Planejamento
 
 Tarefas por Integrante:
