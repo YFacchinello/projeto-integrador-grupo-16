@@ -73,27 +73,23 @@ Dashboard de Gestão de Finanças Pessoais e Investimentos
 
 Siga os passos abaixo no terminal do seu editor de código (como o VS Code) a partir da raiz do repositório para configurar e rodar a aplicação.
 
-1. Clonar o Repositório
-git clone https://github.com/SeuUsuario/projeto-integrador-grupo-16.git
+- Clonar o Repositório
+git clone https://github.com/YFacchinello/projeto-integrador-grupo-16.git
 cd projeto-integrador-grupo-16
 
-3. Instalar as Dependências
+- Instalar as Dependências
 Certifique-se de ter o Python instalado em sua máquina. Em seguida, instale as bibliotecas necessárias executando:
-
 pip install -r requirements.txt
 
 - Caso prefira instalar os pacotes manualmente, execute:
-
 pip install streamlit pandas plotly numpy
 
-3. Executar o Processamento de Dados (ETL)
+- Executar o Processamento de Dados (ETL)
 Antes de abrir o painel, é necessário rodar o script de tratamento de dados localizado na pasta src/ para estruturar o arquivo bruto da pasta data/:
-
 python src/etl.py
 
-4. Executar o Dashboard (Streamlit)
+- Executar o Dashboard (Streamlit)
 Para iniciar a interface gráfica do Streamlit e abrir o painel interativo diretamente no seu navegador de internet, execute o seguinte comando:
-
 python -m streamlit run app/dashboard.py
 
 O servidor local será inicializado e uma nova aba se abrirá automaticamente no seu navegador mostrando o sistema de gestão financeira!
