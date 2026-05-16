@@ -80,17 +80,17 @@ git clone https://github.com/YFacchinello/projeto-integrador-grupo-16.git
 ## Instalar as Dependências
 
 Certifique-se de ter o Python instalado em sua máquina. Em seguida, instale as bibliotecas necessárias executando:
- *pip install -r requirements.txt*
+ **pip install -r requirements.txt**
 
 ## Caso prefira instalar os pacotes manualmente, execute:
  pip install streamlit pandas plotly numpy
 
 ## Executar o Processamento de Dados (ETL)
 Antes de abrir o painel, é necessário rodar o script de tratamento de dados localizado na pasta src/ para estruturar o arquivo bruto da pasta data/:
- _python src/etl.py_
+ **python src/etl.py**
 
 ## Executar o Dashboard (Streamlit)
 Para iniciar a interface gráfica do Streamlit e abrir o painel interativo diretamente no seu navegador de internet, execute o seguinte comando:
-_python -m streamlit run app/dashboard.py_
+**python -m streamlit run app/dashboard.py**
 
 O servidor local será inicializado e uma nova aba se abrirá automaticamente no seu navegador mostrando o sistema de gestão financeira!
