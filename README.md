@@ -79,8 +79,8 @@ git clone https://github.com/YFacchinello/projeto-integrador-grupo-16.git
 
 ## Instalar as Dependências
 
-## Certifique-se de ter o Python instalado em sua máquina. Em seguida, instale as bibliotecas necessárias executando:
- pip install -r requirements.txt
+Certifique-se de ter o Python instalado em sua máquina. Em seguida, instale as bibliotecas necessárias executando:
+ *pip install -r requirements.txt*
 
 ## Caso prefira instalar os pacotes manualmente, execute:
  pip install streamlit pandas plotly numpy
