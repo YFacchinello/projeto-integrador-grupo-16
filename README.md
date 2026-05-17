@@ -94,3 +94,9 @@ Para iniciar a interface gráfica do Streamlit e abrir o painel interativo diret
 **python -m streamlit run app/dashboard.py**
 
 O servidor local será inicializado e uma nova aba se abrirá automaticamente no seu navegador mostrando o sistema de gestão financeira!
+
+## Referências
+-**Base de Dados:** [Personal Finance Dataset - Kaggle] (https://www.kaggle.com/datasets/entrepreneurlife/personal-finance)
+-**Documentação Streamlit:** [Streamlit Docs] (https://docs.streamlit.io)
+-**Ferramenta de Gestão:** [Github Projects - Grupo 16] (https://github.com/YFacchinello/projeto-integrador-grupo-16)
+-**Inspiração de UI:** [Layout Financeiro no Pinterest/Behance]
